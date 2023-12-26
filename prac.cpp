@@ -18,4 +18,4 @@ int main() {
     }
     cout << "Sum of all elements in the queue: " << sum <<endl;
     return 0;
-}
+    //its very simple to use git and it has so many cool features to play with 
