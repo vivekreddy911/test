@@ -18,4 +18,3 @@ int main() {
     }
     cout << "Sum of all elements in the queue: " << sum <<endl;
     return 0;
-    
